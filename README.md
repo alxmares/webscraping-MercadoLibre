@@ -1,5 +1,5 @@
 # **Mercado Libre Scraper**
-![](/assets/mercadolibre.jpeg)
+![](/assets/mercadolibre2.png)
 
 ## Overview
 This Python application is designed to streamline the process of gathering product information from Mercado Libre for business owners looking to populate their Facebook Marketplace catalogs. It automates the tedious tasks of web scraping, image downloading, and URL copying, thereby saving time and reducing manual effort. Utilizing Tkinter for its GUI, the application provides an intuitive interface for users to efficiently obtain essential product data.
