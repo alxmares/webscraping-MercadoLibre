@@ -1,0 +1,4 @@
+title: Minimal theme
+logo: /assets/logo.png
+description: Scrape data from a specified URL. The extracted data can be saved in CSV or Excel format, and users can also download images directly.
+theme: jekyll-theme-minimal
