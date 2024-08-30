@@ -48,6 +48,10 @@ The application features an intuitive graphical user interface (GUI) built with 
 
 3. **GUI with CustomTkinter**: CustomTkinter provides a user-friendly interface for interacting with the application, making it accessible even for those without technical expertise.
 
-## 📚 Check out all my projects
+* * *
 
-[Github - Pages](https://alxmares.github.io)
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
